@@ -11,7 +11,7 @@ public class App
 		int j;
 		int ocorrencias;
 		HashMap<String, Integer> hmap = new HashMap<String, Integer>();
-		String frase = "Kirby does his taxes";
+		String frase = "Bacon ipsum dolor amet spare ribs kevin ball tip bresaola pork belly landjaeger";
 		String palavras[] = frase.split(" ");
 		
 		for(i = 0; i < palavras.length; i++)
